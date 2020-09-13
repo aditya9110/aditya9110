@@ -1,16 +1,23 @@
+# ADITYA MAHIMKAR
 ### Hi there 👋
+I like to use my problem-solving skills to help those **ARTIFICIAL** brains boost their **INTELLIGENCE**.
+I make *machines intelligent* with my experience as an **INTERN**. I am always eager to learn something new.
 
-<!--
-**aditya9110/aditya9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 **Find me on:** 
+  * <a href="Linkedin.com/in/aditya-mahimkar">**LinkedIn**</a>
+  * <a href="mailto:mahimkaradi@gmail.com">**Mail Me**</a>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently self-developing OpenCV project.
+- 🌱 I’m currently learning DBMS and new concepts of OpenCV.
+- 👯 I’m looking for internships out there.
+- ⚡ What I have created: 
+  - Handwritten Digits Recognition System
+  - Lane Detection System 
+  - Customer Complaints Classifier
+  - Social Distance Analyser (under-development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academics and Extra Curricular
+- Studying Computer Engineering and secured an average of **8.90 CGPA** (upto SEM IV).
+- Core member of Machine Learning Club of the college.
+- Secured 1st rank in **Quickathon** organized by QuickWork at SIGCE.
+- **Competitive Programming** on Codechef and Codeforces.
