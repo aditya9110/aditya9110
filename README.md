@@ -10,7 +10,7 @@ I make *machines intelligent* with my experience as an **INTERN**. I am always e
 - 🔭 I’m currently self-developing OpenCV project.
 - 🌱 I’m currently learning DBMS and new concepts of OpenCV.
 - 👯 I’m looking for internships out there.
-- ⚡ What I have created: 
+- :star: What I have created: 
   - Handwritten Digits Recognition System
   - Lane Detection System 
   - Customer Complaints Classifier
