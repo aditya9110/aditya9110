@@ -6,7 +6,9 @@ I make *machines intelligent* with my experience as an **INTERN**. I am always e
 - 📫 **Find me on:** 
   * <a href="Linkedin.com/in/aditya-mahimkar">**LinkedIn**</a>
   * <a href="mailto:mahimkaradi@gmail.com">**Mail Me**</a>
-  - ![](gmail_logo.png)
+  
+  ![](gmail_logo.png)
+  ![](Linkedin_icon.png)
 
 - 🔭 I’m currently self-developing OpenCV project.
 - 🌱 I’m currently learning DBMS and new concepts of OpenCV.
