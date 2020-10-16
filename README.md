@@ -3,6 +3,8 @@
 [<img src="https://github.com/aditya9110/aditya9110/blob/master/gmail_logo.png" height="50">](mailto:mahimkaradi@gmail.com)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/aditya9110/aditya9110/blob/master/Linkedin_icon.png" height="42">](Linkedin.com/in/aditya-mahimkar)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/aditya9110/aditya9110/blob/master/instagram%20logo.jpg" height="45">](https://www.instagram.com/adi_9110)
 
 ### Hi there 👋
 :heavy_check_mark: I like to use my problem-solving skills to help those **ARTIFICIAL** brains boost their **INTELLIGENCE**.
