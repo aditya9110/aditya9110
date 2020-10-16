@@ -1,11 +1,12 @@
-# ADITYA MAHIMKAR
+# ADITYA MAHIMKAR 
+
+[<img src="https://github.com/aditya9110/aditya9110/blob/master/gmail_logo.png" height="50">](mailto:mahimkaradi@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/aditya9110/aditya9110/blob/master/Linkedin_icon.png" height="42">](Linkedin.com/in/aditya-mahimkar)
+
 ### Hi there 👋
 :heavy_check_mark: I like to use my problem-solving skills to help those **ARTIFICIAL** brains boost their **INTELLIGENCE**.
 I make *machines intelligent* with my experience as an **INTERN**. I am always eager to learn something new.
-
-- 📫 **Find me on:** 
-  * <a href="Linkedin.com/in/aditya-mahimkar">**LinkedIn**</a>
-  * <a href="mailto:mahimkaradi@gmail.com">**Mail Me**</a>
   
 - 🔭 I’m currently self-developing OpenCV project.
 - 🌱 I’m currently learning DBMS and new concepts of OpenCV.
