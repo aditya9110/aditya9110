@@ -13,7 +13,7 @@
 :heavy_check_mark: I like to use my problem-solving skills to help those **ARTIFICIAL** brains boost their **INTELLIGENCE**.
 I make *machines intelligent* with my experience as an **INTERN**. I am always eager to learn something new.
   
-- Interned @DevIncept as Artificial Intelligent Intern
+- Interned @DevIncept as Artificial Intelligence Intern
 - 🔭 I’m currently self-developing OpenCV project.
 - 🌱 I’m currently learning DBMS and new concepts of OpenCV.
 - 👯 I’m looking for internships out there.
