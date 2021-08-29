@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aditya9110&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Aditya's Stats">
 </p>
+
 ### Hi there 👋
 :heavy_check_mark: I like to use my problem-solving skills to help those **ARTIFICIAL** brains boost their **INTELLIGENCE**.
 I make *machines intelligent* with my experience as an **INTERN**. I am always eager to learn something new.
