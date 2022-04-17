@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Machine Learning Developer with 2 years experience of ML/AI and Python from India.</h3>
-<p align="center"> I like to use my problem-solving skills to help those ARTIFICIAL brains boost their INTELLIGENCE. I make machines intelligent with my experience as an DEVELOPER.</p>
+<p align="center"> I like to use my problem-solving skills to help those ARTIFICIAL brains boost their INTELLIGENCE. I make machines intelligent with my experience as a DEVELOPER.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya9110&label=Profile%20views&color=0e75b6&style=flat" alt="aditya9110" /> </p>
 
