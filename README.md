@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya9110" alt="aditya9110" /></a> </p>
 
-- 🔭 I’m currently working on **Urbanization - City Planning using AI**
+- 🔭 I’m currently working at @Infosys as Digital Specialist Engineer.
 
 - 🌱 I’m currently learning **SQL and MLOps**
 
@@ -18,7 +18,7 @@
 
 - 📊 Studying Computer Engineering and secured an average of **9.22 CGPA** (upto SEM VII)
 
-- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1A7d_rcSmA6OPRm7ysHdfcMdr-fKF2W0J/view?usp=sharing)
+- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1QpEO30TrSTG0Au4QzezBi40tCLJYKDKH/view?usp=sharing)
 
 - ⚡ Fun fact **ML is not all about .fit() and .predict() 😉**
 
